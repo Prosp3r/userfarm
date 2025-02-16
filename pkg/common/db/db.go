@@ -3,7 +3,6 @@ package db
 import (
 	"log"
 
-	"github.com/Prosp3r/deepseek/userfarm/pkg/common/models"
 	"github.com/Prosp3r/userfarm/pkg/common/models"
 	"gorm.io/driver/postgres"
 	"gorm.io/gorm"

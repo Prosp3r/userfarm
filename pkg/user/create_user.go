@@ -3,7 +3,7 @@ package user
 import (
 	"net/http"
 
-	"github.com/Prosp3r/deepseek/userfarm/pkg/common/models"
+	"github.com/Prosp3r/userfarm/pkg/common/models"
 	"github.com/gin-gonic/gin"
 )
 

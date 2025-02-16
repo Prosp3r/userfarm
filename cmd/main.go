@@ -1,10 +1,10 @@
 package main
 
 import (
-	"github.com/Prosp3r/deepseek/userfarm/pkg/common/db"
-	"github.com/Prosp3r/deepseek/userfarm/pkg/referral"
-	"github.com/Prosp3r/deepseek/userfarm/pkg/task"
-	"github.com/Prosp3r/deepseek/userfarm/pkg/user"
+	"github.com/Prosp3r/userfarm/pkg/common/db"
+	"github.com/Prosp3r/userfarm/pkg/referral"
+	"github.com/Prosp3r/userfarm/pkg/task"
+	"github.com/Prosp3r/userfarm/pkg/user"
 	"github.com/gin-gonic/gin"
 	"github.com/spf13/viper"
 )
